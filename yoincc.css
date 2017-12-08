@@ -1,0 +1,104 @@
+body{
+	background-image: url("https://wallpapercave.com/wp/hMwO9WT.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Roboto, Arial, sans-serif;
+}
+
+.doincccc{
+		background-image: url("https://media.giphy.com/media/j2Wpfa3i9tS0/giphy.gif");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Roboto, Arial, sans-serif;
+}
+
+.doopy{
+		background-image: url("https://img.4plebs.org/boards/pol/image/1485/67/1485672602744.png");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Roboto, Arial, sans-serif;
+}
+
+h1{
+	color: #FFFFFF;
+    text-shadow: 2px 2px #000000;
+	font-size: 40px;
+    text-align: center;
+}
+
+iframe{
+	display: block;
+	margin: auto;
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+}
+
+h3{
+	text-align: center;
+}
+
+p{
+text-align: center;
+margin: 15px 15px 15px 15px;
+font-size: 15px;
+}
+
+.logo{
+	display: block;
+	margin: auto;
+}
+
+table{
+	width: 100%;
+	 border: 1px solid black;
+}
+
+th {
+	border: 1px solid black;
+	height: 40px;
+	width: 250px;
+}
+
+td{
+	border: 1px solid black;
+}
+
+a{
+	color: black;
+	
+}
+
+a:hover{
+	color: green;
+}
+
+.middle{
+	background-color: #FFFFFF;
+	margin: auto;
+	width: 1000px; 	
+}
+
+.header{
+	width: 100%;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKItyBgyHJYULoXmWRS-L_6Euw5J50_TJSRHI-iGNU9WhndRW");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.links{
+	width: 100%;
+}
+
+.maincontent{
+	width: 100%;
+}
+
+.footer{
+	width:100%;
+}
